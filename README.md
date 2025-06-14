@@ -36,4 +36,4 @@ Amin Diary (LeAmino)
 
 ## License
 
-This project is open source and free to use.
+This project is belongs to NextZenCode.com
